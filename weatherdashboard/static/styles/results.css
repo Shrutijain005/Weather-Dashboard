@@ -1,0 +1,16 @@
+#weatherResults {
+    background-color: #fa8072;
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+    padding: 40px;
+    border-radius: 20%;
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
